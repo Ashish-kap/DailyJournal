@@ -1,5 +1,5 @@
-# BooksForGeeks Application
+# Daily Journal Application
 
-Explore books by genres and find the perfect read.
+Write activities, experiences, thoughts, and ideas throughout a day.
 
-Built using modern technologies: Nodejs, Express, PUG, Javascript, MongoDB 😊🤍. 
+Built using modern technologies: Nodejs, Express, EJS, Javascript, MongoDB 😊🤍. 
